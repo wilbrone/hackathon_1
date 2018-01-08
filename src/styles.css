@@ -1,1 +1,16 @@
 /* You can add global styles to this file, and also import other style files */
+.main-container{
+	min-height: 800px;
+	margin-bottom: 20px;
+
+}
+
+.image-slide{
+	max-height: 450px;
+	margin: 0 auto;
+	max-width: 700px;
+}
+
+.row{
+	float: left;
+}
